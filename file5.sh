@@ -1,0 +1,2 @@
+echo "devops training"
+
